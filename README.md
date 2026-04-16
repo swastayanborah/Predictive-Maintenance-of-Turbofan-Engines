@@ -2,7 +2,7 @@
 ### Applied Multivariate Analysis — Course Project Part 1
 **IIT Ropar | MSDSM-03 | AY 2025–2026**
 
-> Swastayan Borah `2025DSS1028` · Vatsal Goswami `2025DSS1031`
+> Swastayan Borah `2025DSS1028`
 
 ---
 
