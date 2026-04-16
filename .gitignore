@@ -1,0 +1,47 @@
+# ── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# ── Data files (large; download separately from NASA repository) ──────────────
+data/train_FD00*.txt
+data/test_FD00*.txt
+data/RUL_FD00*.txt
+*.txt.zip
+
+# ── Model artefacts & outputs ─────────────────────────────────────────────────
+outputs/
+models/
+*.pkl
+*.joblib
+*.h5
+
+# ── OS / editor ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Misc ─────────────────────────────────────────────────────────────────────
+*.log
+*.tmp
